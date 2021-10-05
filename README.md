@@ -1,5 +1,3 @@
-# Telepathy Assignment Backend
-
 ## Getting Started
 
 `yarn install`
